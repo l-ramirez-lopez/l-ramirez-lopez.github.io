@@ -1,0 +1,16 @@
+.Rhistory
+resemble\.Rproj
+.Rproj.user
+resemble.Rproj
+src/*.o
+.RData
+resemble\resemble_logo.png
+code_ex.R
+resemble\.travis.yml
+src/*.so
+src/*.dll
+src-i386/
+src-x64/
+.Rproj.user/
+packrat/lib*/
+*.html
