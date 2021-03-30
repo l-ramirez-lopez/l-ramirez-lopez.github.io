@@ -8,5 +8,5 @@ Include the hats: taxidriver
 
 include the group
 
-Include github accounts of group memmbers
+Include link to github accounts of group memmbers
 
