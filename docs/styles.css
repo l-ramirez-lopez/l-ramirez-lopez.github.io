@@ -4,15 +4,13 @@
 
 
 .profile-pic {
-  width: clamp(130px, 22vw, 170px);
-  height: clamp(130px, 22vw, 170px);
-  border-radius: 50%;
+  width: 280px;
+  height: 280px;
   object-fit: cover;
+  /*  border-radius: 50%; */
   display: block;
   margin-bottom: 1rem;
 }
-
-
 
 .quarto-container {
   max-width: none /*  this is the key change */
