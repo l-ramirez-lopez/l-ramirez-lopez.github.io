@@ -1,0 +1,28 @@
+---
+title: "Beyond work"
+---
+
+Outside of coding, research, and leadership roles, I value time spent on activities that help me disconnect and stay creative.
+
+<!--more-->
+
+I enjoy playing the guitar, discovering new music, and, occasionally, a good beer.  
+Music plays an important role in my life, and my taste is deliberately eclectic, spanning different genres, cultures, and periods.
+
+Some examples of what I enjoy listening to:
+
+{{< video https://www.youtube.com/watch?v=IlNZlGWegcc >}}
+{{< video https://www.youtube.com/watch?v=1Sw2JJ5nSbM >}}
+{{< video https://www.youtube.com/watch?v=LvNCGtZlQso >}}
+{{< video https://www.youtube.com/watch?v=DLZOOPMxFNg >}}
+{{< video https://youtu.be/tT9Eh8wNMkw?si=dVWQvZ7bwlmMDStY >}}
+
+{{< video https://www.youtube.com/watch?v=rO1VDCZh_Ko >}}
+{{< video https://www.youtube.com/watch?v=zAIMBWgL77M >}}
+{{< video https://www.youtube.com/watch?v=E58_5-FC3k4 >}}
+{{< video https://www.youtube.com/watch?v=1HzxlcrLHQ0 >}}
+
+{{< video https://www.youtube.com/watch?v=mcCK99wHrk0 >}}
+{{< video https://www.youtube.com/watch?v=txPEUPihhwo >}}
+
+

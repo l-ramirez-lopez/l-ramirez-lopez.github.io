@@ -9,3 +9,6 @@ l-ramirez-lopez.github.io\.travis.yml
 .Rproj.user/
 packrat/lib*/
 *.html
+
+/.quarto/
+**/*.quarto_ipynb

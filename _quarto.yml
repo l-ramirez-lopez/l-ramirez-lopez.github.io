@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Leo Ramirez-Lopez"
+  navbar:
+    tools:
+      - icon: github
+        href: https://github.com/l-ramirez-lopez/
+      - icon: linkedin
+        href: https://linkedin.com/in/leo-ramirez-lopez
+      - icon: fa brands orcid
+        href: https://orcid.org/0000-0002-5369-5120
+    left:
+      - text: Home
+        href: index.html
+      - text: CV
+        icon: person-bounding-box
+        href: cv.pdf
+      - text: Talks and trainings
+        icon: megaphone
+        href: talks.html        
+      - text: My research
+        icon: activity
+        href: research.html
+      - text: Other stuff
+        icon: emoji-smile-upside-down
+        href: other.html
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

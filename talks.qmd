@@ -1,0 +1,113 @@
+---
+title: ""
+---
+
+An important part of my work involves sharing knowledge and supporting capacity building in data analytics, machine learning, and spectroscopy. Over the years, I have led and contributed to workshops, training courses, and talks for researchers, students, and professionals across academia, government, and industry.
+
+Below are selected talks and training activities.
+
+### __From decision to impact: successfully starting with NIR__ *(in Spanish)*  
+**Invited talk**  
+*World Food Organization (FAO)*  
+*Online, 25 September 2025*  
+Public talk on translating near-infrared spectroscopy from decision-making to operational impact.  
+
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube.com/embed/CxZlqTf0zr0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    loading="lazy">
+  </iframe>
+</div>
+
+
+
+### __On the use of low-cost infrared spectroscopy__  
+**Lead instructor**  
+*ETH Zürich*   
+*Fort Portal, Uganda, August 19–24, 2024*  
+Summer school on the assessment of tropical forest and soil resources.  
+[Here are some of the resorces used during the training](https://github.com/l-ramirez-lopez/tropires_spectroscopy_workshop)  
+
+::: {.grid .gallery}
+::: {.g-col-4}
+![Field spectroscopy for collecting data](assets/soil_sensing1.jpeg)
+:::
+::: {.g-col-4}
+![Predictions in the field for C content](assets/soil_sensing2.jpeg)
+:::
+::: {.g-col-4}
+![Measuring a soil core](assets/soil_sensing3.jpeg)
+:::
+:::
+
+
+### __FAO workshop on pathways to precision in soil analysis: advancing soil laboratories in Latin America and the Caribbean__  
+**Lead instructor**
+*World Food Organization (FAO)*   
+*Santiago–Chillán, Chile,  April 2024*  
+One-week training course for soil laboratories in Latin America and the Caribbean.  
+
+
+### __Towards operational large-scale soil spectral libraries__  
+**Invited speaker**  *World Food Organization (FAO)*
+*Online, October 2022*
+Webinar for the GLOSOLAN soil spectroscopy initiative.  
+<div class="video-embed">
+<iframe 
+  width="560" height="315" src="https://www.youtube.com/embed/O3iWba9OOck?si=hPji8ZocmIgYLvFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  </iframe>
+</div>
+
+
+### __Getting accurate predictions from large and diverse spectral libraries: think globally, fit locally__  
+**Invited speaker**  
+*Woodwell Climate Research Center, USA*
+*Online, July 2021*  
+Part of the [*Soil Spectroscopy for Global Good*](https://soilspectroscopy.org/) presentation series.  
+
+
+<div class="video-embed">
+  <iframe
+    src="https://av.tib.eu/player/52955"
+    style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+    allow="fullscreen"
+    loading="lazy">
+  </iframe>
+</div>
+
+
+### __Perspectives on Spectroscopy and Digital Mapping__
+**Invited speaker**  
+*Invited talk*
+*National University of Colombia, Bogota, November 2021*
+
+<div class="video-embed">
+  <iframe 
+  style="width: 100%; aspect-ratio: 16 / 9; border: 0;" src="https://www.youtube.com/embed/YrrdtcUD8PQ?si=emkdEuYx6-q9etXb" 
+  title="YouTube   video player" 
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  </iframe>
+</div>
+
+
+### __NIR spectroscopy in agriculture__  
+**Lead instructor**  
+*XII Latin American and Caribbean Congress of Agricultural Engineering*  
+*Bogotá, Colombia, May 2016*  
+Training workshop.
+
+### __Training course on reflectance spectroscopy and multivariate calibration in R__  
+**Lead instructor**  
+*University of Bern*  
+*Bern, Switzerland, November 2012*  
+Five-day workshop on predictive analytics for near-infrared spectroscopy.
+
+### __Training course on soil sensing protocols and the implementation of soil infrared spectral libraries__  
+**Lead instructor**  
+*Colombian Agricultural Research Corporation (CORPOICA)*  
+*Colombia, July 2012*  
+One-week training course for researchers.
+
+
