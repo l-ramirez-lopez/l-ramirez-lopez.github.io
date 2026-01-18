@@ -1,14 +1,12 @@
 .Rhistory
 l-ramirez-lopez.github.io\.Rproj
 .Rproj.user
-l-ramirez-lopez.github.io.Rproj
 src/*.o
 .RData
 code_ex.R
 l-ramirez-lopez.github.io\.travis.yml
 .Rproj.user/
 packrat/lib*/
-*.html
 
 /.quarto/
 **/*.quarto_ipynb
