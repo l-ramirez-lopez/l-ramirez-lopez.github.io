@@ -17,7 +17,7 @@ website:
         href: index.html
       - text: CV
         icon: person-bounding-box
-        href: cv.pdf
+        href: cv.html
       - text: Talks and trainings
         icon: megaphone
         href: talks.html        
