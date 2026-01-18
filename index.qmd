@@ -1,11 +1,12 @@
 ---
 title: "About me"
+toc: false
 ---
 
 
 
 ::: columns
-::: {.column width="40%"}
+::: {.column width="50%"}
 
 ![](assets/profile.png){.profile-pic}
 **Leo Ramirez-Lopez**  
@@ -15,7 +16,7 @@ Switzerland
 
 :::
 
-::: {.column width="60%"}
+::: {.column width="50%"}
 
 
 
