@@ -24,6 +24,9 @@ website:
       - text: My research
         icon: activity
         href: research.html
+      - text: Code
+        icon: code-slash
+        href: code.html
       - text: Other stuff
         icon: emoji-smile-upside-down
         href: other.html

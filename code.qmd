@@ -1,0 +1,29 @@
+---
+title: ""
+toc: false
+---
+
+
+I also contribute actively to open-source software, both within and outside my professional roles. Over the years, I have maintained several projects; below are two long-term packages that I have led and continuously developed for more than a decade.
+
+# __`prospectr`__
+
+**Lead developer (since 2013)**
+
+`prospectr` is an R package for the processing, pre-processing, and calibration sample selection of visible and near-infrared (vis–NIR) spectroscopic data. It provides a comprehensive set of utilities to support spectral data analysis workflows, from signal transformation and filtering to representative sampling of large spectral libraries.
+
+The package is widely used in chemometrics and spectroscopy research ([with more than 500 citations in scientific journals](https://scholar.google.com/scholar?cites=8047982185162145318&as_sdt=2005&sciodt=0,5&hl=en)) and is designed for performance and scalability. Core functions are optimised for speed, including implementations based on C++ via Rcpp, enabling efficient use on large datasets commonly encountered in industrial and research applications. 
+
+Documentation and vignettes:
+[https://cran.r-project.org/web/packages/prospectr/vignettes/prospectr.html](https://cran.r-project.org/web/packages/prospectr/vignettes/prospectr.html)
+
+# __`resemble`__
+
+**Lead developer (since 2014)**
+
+`resemble` is an R package focused on regression, similarity evaluation, and memory-based learning methods for spectral chemometrics. It implements non-linear modelling approaches based on local learning principles, often referred to as memory-based or instance-based regression.
+
+The package supports the development and evaluation of local modelling strategies for spectroscopic data, enabling flexible and interpretable alternatives to global calibration models. It is used in both academic research and applied settings where model locality and adaptability are critical.
+
+Documentation and vignettes:
+[https://cran.r-project.org/web/packages/resemble/vignettes/resemble.html](https://cran.r-project.org/web/packages/resemble/vignettes/resemble.html)
