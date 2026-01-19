@@ -14,7 +14,7 @@ Head of Data Science
 BUCHI Labortechnik AG  
 Switzerland  
 My [e-mail](ramirez-lopez.l@buchi.com)  
-3
+
 :::
 
 ::: {.column width="60%"}
