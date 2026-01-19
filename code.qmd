@@ -10,10 +10,10 @@ I also contribute actively to open-source software, both within and outside my p
 
 **Lead developer (since 2013)**
 
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/prospectr)](https://CRAN.R-project.org/package=prospectr)
-[![Downloads](https://cranlogs.r-pkg.org/badges/prospectr)](https://cranlogs.r-pkg.org/badges/prospectr)
+[![CRAN](https://img.shields.io/cran/v/prospectr)](https://cran.r-project.org/package=prospectr)
+[![license](https://img.shields.io/cran/l/prospectr)](https://cran.r-project.org/package=prospectr)
 
-<img align="right" src="assets/prospectr-logo.png" width="15%">
+<img align="right" src="assets/prospectr-logo.png" width="20%">
 
 
 `prospectr` is an R package for the processing, pre-processing, and calibration sample selection of visible and near-infrared (vis–NIR) spectroscopic data. It provides a comprehensive set of utilities to support spectral data analysis workflows, from signal transformation and filtering to representative sampling of large spectral libraries.
@@ -27,11 +27,10 @@ Documentation and vignettes:
 
 **Lead developer (since 2014)**
 
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/resemble)](https://CRAN.R-project.org/package=resemble)
-[![Downloads](https://cranlogs.r-pkg.org/badges/resemble)](https://cranlogs.r-pkg.org/badges/resemble)
+[![CRAN](https://img.shields.io/cran/v/resemble)](https://cran.r-project.org/package=resemble)
+[![license](https://img.shields.io/cran/l/resemble)](https://cran.r-project.org/package=resemble)
 
-<img align="right" src="assets/resemble-logo.png" width="15%">
-
+<img align="right" src="assets/resemble-logo.png" width="20%">
 
 `resemble` is an R package focused on regression, similarity evaluation, and memory-based learning methods for spectral chemometrics. It implements non-linear modelling approaches based on local learning principles, often referred to as memory-based or instance-based regression.
 
