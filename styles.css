@@ -2,6 +2,9 @@
    Core layout and rhythm
    ============================ */
 
+a {
+	color: dodgerblue;
+}
 
 .profile-pic {
   width: 280px;
