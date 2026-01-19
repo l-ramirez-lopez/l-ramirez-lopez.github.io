@@ -10,6 +10,12 @@ I also contribute actively to open-source software, both within and outside my p
 
 **Lead developer (since 2013)**
 
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/prospectr)](https://CRAN.R-project.org/package=prospectr)
+[![Downloads](https://cranlogs.r-pkg.org/badges/prospectr)](https://cranlogs.r-pkg.org/badges/prospectr)
+
+<img align="right" src="assets/prospectr-logo.png" width="15%">
+
+
 `prospectr` is an R package for the processing, pre-processing, and calibration sample selection of visible and near-infrared (vis–NIR) spectroscopic data. It provides a comprehensive set of utilities to support spectral data analysis workflows, from signal transformation and filtering to representative sampling of large spectral libraries.
 
 The package is widely used in chemometrics and spectroscopy research ([with more than 500 citations in scientific journals](https://scholar.google.com/scholar?cites=8047982185162145318&as_sdt=2005&sciodt=0,5&hl=en)) and is designed for performance and scalability. Core functions are optimised for speed, including implementations based on C++ via Rcpp, enabling efficient use on large datasets commonly encountered in industrial and research applications. 
@@ -20,6 +26,12 @@ Documentation and vignettes:
 # __`resemble`__
 
 **Lead developer (since 2014)**
+
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/resemble)](https://CRAN.R-project.org/package=resemble)
+[![Downloads](https://cranlogs.r-pkg.org/badges/resemble)](https://cranlogs.r-pkg.org/badges/resemble)
+
+<img align="right" src="assets/resemble-logo.png" width="15%">
+
 
 `resemble` is an R package focused on regression, similarity evaluation, and memory-based learning methods for spectral chemometrics. It implements non-linear modelling approaches based on local learning principles, often referred to as memory-based or instance-based regression.
 
