@@ -1,5 +1,12 @@
 ---
 title: "My experience"
+format:
+  html:
+    theme:
+      light: [flatly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+    css: styles.css
+    toc: false
 ---
 
 A copy of my one-page CV can be obtained [here](assets/leo-ramirez-lopez-cv-summarised.pdf).

@@ -1,6 +1,12 @@
 ---
 title: ""
-toc: false
+format:
+  html:
+    theme:
+      light: [flatly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+    css: styles.css
+    toc: false
 ---
 
 An important part of my work involves sharing knowledge and supporting capacity building in data analytics, machine learning, and spectroscopy. Over the years, I have led and contributed to workshops, training courses, and talks for researchers, students, and professionals across academia, government, and industry.

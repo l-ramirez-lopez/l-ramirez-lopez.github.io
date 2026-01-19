@@ -5,6 +5,13 @@ nocite: "@*"
 csl: "assets/chicago-author-date.csl"
 reference-section-sort:
   - year-desc
+format:
+  html:
+    theme:
+      light: [flatly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+    css: styles.css
+    toc: false
 ---
 
 
