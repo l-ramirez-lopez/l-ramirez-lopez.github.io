@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Selected invited talks and trainings"
 format:
   html:
     theme:

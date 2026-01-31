@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Peer-reviewed publications"
 bibliography: "assets/ramirez-lopez.bib"
 nocite: "@*"
 csl: "assets/chicago-author-date.csl"
@@ -13,7 +13,6 @@ format:
     css: styles.css
     toc: false
 ---
-
 
 Here are some of my research publications
 
