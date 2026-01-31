@@ -1,5 +1,5 @@
 ---
-title: "My research on Machine Learning, Chemometrics and Specttroscopy"
+title: "My research on Machine Learning, Chemometrics and Spectroscopy"
 bibliography: "assets/ramirez-lopez.bib"
 nocite: "@*"
 csl: "assets/chicago-author-date.csl"
