@@ -4,7 +4,7 @@ project:
 
 website:
   site-url: https://l-ramirez-lopez.github.io
-  title: "Leo Ramirez-Lopez"
+  title: "Leonardo Ramirez-Lopez"
   navbar:
     tools:
       - icon: github
@@ -39,7 +39,9 @@ format:
       dark: [darkly, theme-dark.scss]
     css: styles.css
     toc: false
-    include-in-header: ga.html
+    include-in-header:
+      - ga.html
+      - schema-person.html
 
 
 
