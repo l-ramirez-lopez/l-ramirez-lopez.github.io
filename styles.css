@@ -16,7 +16,7 @@ a {
 }
 
 .quarto-container {
-  max-width: none /*  this is the key change */
+  max-width: none; /*  this is the key change */
   margin: 0 auto;
   padding: 3rem 2rem;
 }

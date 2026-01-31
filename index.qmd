@@ -19,15 +19,17 @@ format:
 Head of Data Science  
 BUCHI Labortechnik AG  
 Switzerland  
-My [e-mail](ramirez-lopez.l@buchi.com)  
+[e-mail](mailto:ramirez-lopez.l@buchi.com)  
+[ORCID](https://orcid.org/0000-0002-5369-5120)  
+[GitHub](https://github.com/l-ramirez-lopez)  
+[LinkedIn](https://linkedin.com/in/leo-ramirez-lopez)  
 
 :::
 
 ::: {.column width="60%"}
 
 
-
-I work in data science and artificial intelligence at the intersection of research and development, digital products, and business transformation.
+My work interfaces spectroscopy, chemometrics, and applied machine learning. I work in data science and artificial intelligence at the intersection of research and development, digital products, and business transformation.
 
 I currently lead the Data Science department at [BUCHI Labortechnik AG](https://www.buchi.com/en), where I work on machine-learning platforms, embedded AI systems, and analytics services for laboratory automation and industrial applications.
 
