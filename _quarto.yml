@@ -17,19 +17,14 @@ website:
       - text: Home
         href: index.html
       - text: CV
-        icon: person-bounding-box
         href: cv.html
       - text: Talks and trainings
-        icon: megaphone
         href: talks.html        
       - text: My research
-        icon: activity
         href: research.html
       - text: Code
-        icon: code-slash
         href: code.html
       - text: Other stuff
-        icon: emoji-smile-upside-down
         href: other.html
 
 format:
