@@ -46,7 +46,7 @@ Switzerland
 ::: {.column width="60%"}
 
 
-My work interfaces spectroscopy, chemometrics, and applied machine learning. I work in data science and artificial intelligence at the intersection of research and development, digital products, and business transformation.
+My work sits at the interface of spectroscopy, chemometrics, and applied machine learning, spanning data science and artificial intelligence across research and development, digital products, and business transformation.
 
 I currently lead the Data Science department at [BUCHI Labortechnik AG](https://www.buchi.com/en), where I work on machine-learning platforms, embedded AI systems, and analytics services for laboratory automation and industrial applications.
 
