@@ -19,10 +19,27 @@ format:
 Head of Data Science  
 BUCHI Labortechnik AG  
 Switzerland  
-[e-mail](mailto:ramirez-lopez.l@buchi.com)  
-[ORCID](https://orcid.org/0000-0002-5369-5120)  
-[GitHub](https://github.com/l-ramirez-lopez)  
-[LinkedIn](https://linkedin.com/in/leo-ramirez-lopez)  
+```{=html}
+<div class="profile-links">
+  <a href="mailto:ramirez-lopez.l@buchi.com">
+    <i class="bi bi-envelope"></i> email
+  </a>
+
+  <a href="https://github.com/l-ramirez-lopez" target="_blank" rel="noopener">
+    <i class="bi bi-github"></i> GitHub
+  </a>
+
+  <a href="https://linkedin.com/in/leo-ramirez-lopez" target="_blank" rel="noopener">
+    <i class="bi bi-linkedin"></i> LinkedIn
+  </a>
+
+  <a href="https://orcid.org/0000-0002-5369-5120" rel="me noopener noreferrer" target="_blank">
+    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+         style="width:1em; vertical-align:-0.125em;" alt="ORCID iD"/>
+    ORCID
+  </a>
+</div>
+
 
 :::
 

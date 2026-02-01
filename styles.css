@@ -6,6 +6,25 @@ a {
 	color: dodgerblue;
 }
 
+/* Grey icons in profile links */
+.profile-links i {
+  color: #6c757d;        /* Bootstrap's standard muted grey */
+}
+
+.profile-links img {
+  filter: grayscale(1);
+  opacity: 0.75;
+}
+
+/* Optional: keep text normal colour */
+.profile-links a {
+  display: block;
+  margin: 0 !important;
+  line-height: 1;
+}
+
+
+
 .profile-pic {
   width: 280px;
   height: 280px;
