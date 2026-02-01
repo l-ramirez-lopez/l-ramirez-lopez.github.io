@@ -15,7 +15,7 @@ format:
 ::: {.column width="40%"}
 
 ![](assets/profile.png){.profile-pic}
-**Leo Ramirez-Lopez**  
+**Leonardo Ramirez-Lopez** *(Leo)*  
 Head of Data Science  
 BUCHI Labortechnik AG  
 Switzerland  
