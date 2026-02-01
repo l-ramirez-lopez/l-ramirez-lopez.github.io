@@ -25,19 +25,30 @@ Switzerland
     <i class="bi bi-envelope"></i> email
   </a>
 
-  <a href="https://github.com/l-ramirez-lopez" target="_blank" rel="noopener">
+  <a href="https://github.com/l-ramirez-lopez"
+     target="_blank" rel="noopener">
     <i class="bi bi-github"></i> GitHub
   </a>
 
-  <a href="https://linkedin.com/in/leo-ramirez-lopez" target="_blank" rel="noopener">
+  <a href="https://linkedin.com/in/leo-ramirez-lopez"
+     target="_blank" rel="noopener">
     <i class="bi bi-linkedin"></i> LinkedIn
   </a>
 
-  <a href="https://orcid.org/0000-0002-5369-5120" rel="me noopener noreferrer" target="_blank">
+  <a href="https://orcid.org/0000-0002-5369-5120"
+     rel="me noopener noreferrer"
+     target="_blank">
     <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-         style="width:1em; vertical-align:-0.125em;" alt="ORCID iD"/>
+         style="width:1em; vertical-align:-0.125em;"
+         alt="ORCID iD"/>
     ORCID
   </a>
+  
+  <a href="https://scholar.google.com/citations?user=KOFQEEkAAAAJ&hl=en"
+     target="_blank" rel="noopener">
+    <i class="bi bi-mortarboard"></i> Google Scholar
+  </a>
+
 </div>
 
 
