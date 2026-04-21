@@ -31,7 +31,7 @@ format:
   html:
     theme:
       light: [cosmo, theme-light.scss]
-      dark: [darkly, theme-dark.scss]
+      dark: [cyborg, theme-dark.scss]
     css: styles.css
     toc: false
     include-in-header:
