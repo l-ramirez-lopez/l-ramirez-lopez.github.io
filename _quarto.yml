@@ -16,27 +16,27 @@ website:
     left:
       - text: Home
         href: index.html
+      - text: Research
+        href: research.html
+      - text: Publications
+        href: publications.html
       - text: CV
         href: cv.html
-      - text: Talks and trainings
-        href: talks.html        
-      - text: My research
-        href: research.html
       - text: Code
         href: code.html
-      - text: Other stuff
+      - text: Talks
+        href: talks.html
+      - text: Beyond work
         href: other.html
 
 format:
   html:
     theme:
-      light: [flatly, theme-light.scss]
+      light: [cosmo, theme-light.scss]
       dark: [darkly, theme-dark.scss]
     css: styles.css
     toc: false
     include-in-header:
       - ga.html
       - schema-person.html
-
-
-
+      

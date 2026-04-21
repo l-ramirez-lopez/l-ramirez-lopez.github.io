@@ -1,12 +1,5 @@
 ---
 title: "Two of my open-source projects"
-format:
-  html:
-    theme:
-      light: [flatly, theme-light.scss]
-      dark: [darkly, theme-dark.scss]
-    css: styles.css
-    toc: false
 ---
 
 

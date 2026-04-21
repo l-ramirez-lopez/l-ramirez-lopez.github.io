@@ -1,18 +1,24 @@
 ---
-title: "My research on Machine Learning, Chemometrics and Spectroscopy"
+title: "Here are some of my publications"
 bibliography: "assets/ramirez-lopez.bib"
 nocite: "@*"
 csl: "assets/chicago-author-date.csl"
 reference-section-sort:
   - year-desc
-format:
-  html:
-    theme:
-      light: [flatly, theme-light.scss]
-      dark: [darkly, theme-dark.scss]
-    css: styles.css
-    toc: false
 ---
+
+My research focuses on three interconnected themes. The first is 
+local and retrieval-based machine learning for spectroscopy: 
+developing methods that exploit the structure of large spectral 
+libraries to build adaptive, sample-efficient predictive models 
+(including memory-based learning, library search, and evolutionary 
+subset selection). The second is chemometrics and applied spectroscopy, 
+particularly vis-NIR and MIR applications in soil science and 
+agriculture, where I have worked on problems ranging from national-scale 
+soil mapping to field-deployable calibration workflows. The third is 
+scalable and deployable ML for industrial laboratory applications, 
+translating research-grade methods into embedded systems, digital 
+products, and analytical services for real-world use.
 
 Here are some of my research publications
 

@@ -2,16 +2,11 @@
 title: "Beyond work"
 ---
 
-Outside of coding, research, and leadership roles, I value time spent on activities that help me disconnect and stay creative.
+Outside of coding, research, and leadership, I value time that helps 
+me disconnect and stay creative.
 
-<!--more-->
-
-I enjoy playing the guitar, discovering new music, and, occasionally, a good beer.  
-Music plays an important role in my life, and my taste is deliberately eclectic, spanning different genres, cultures, and periods.
-
-Some examples of what I enjoy listening to:
-
-ADD OUTSIDERS OF REM!!!
+I play guitar, seek out new music across genres and cultures, and 
+appreciate a good beer. A few things I have been listening to lately:
 
 
 {{< video https://www.youtube.com/watch?v=IlNZlGWegcc >}}

@@ -1,15 +1,15 @@
 ---
 title: "My experience"
-format:
-  html:
-    theme:
-      light: [flatly, theme-light.scss]
-      dark: [darkly, theme-dark.scss]
-    css: styles.css
-    toc: false
 ---
 
-A copy of my one-page CV can be obtained [here](assets/leo-ramirez-lopez-cv-summarised.pdf).
+I am a data scientist and researcher working at the intersection of 
+spectroscopy, chemometrics, and applied machine learning. Currently 
+Head of Data Science at [BUCHI Labortechnik AG](https://www.buchi.com/en), 
+Switzerland. PhD from the University of Tübingen, postdoctoral research 
+at ETH Zürich, and MSc in Business Analytics from Imperial College London.
+
+A CV is available below and as a [direct download](assets/leo-ramirez-lopez-cv-summarised.pdf).
+
 
 <div class="pdf-embed">
   <iframe

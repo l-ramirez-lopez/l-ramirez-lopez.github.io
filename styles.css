@@ -1,14 +1,26 @@
-/* ============================
-   Core layout and rhythm
-   ============================ */
-
-a {
-	color: dodgerblue;
+.profile-pic {
+  width: 100%;
+  max-width: 240px;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  margin-bottom: 1rem;
 }
 
-/* Grey icons in profile links */
+.profile-links a {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 0.35rem;
+  line-height: 1.4;
+  text-decoration: none;
+}
+
 .profile-links i {
-  color: #6c757d;        /* Bootstrap's standard muted grey */
+  color: #6c757d;
+  font-size: 0.95em;
 }
 
 .profile-links img {
@@ -16,110 +28,15 @@ a {
   opacity: 0.75;
 }
 
-/* Optional: keep text normal colour */
-.profile-links a {
-  display: block;
-  margin: 0 !important;
-  line-height: 1;
-}
-
-
-
-.profile-pic {
-  width: 280px;
-  height: 280px;
-  object-fit: cover;
-  /*  border-radius: 50%; */
-  display: block;
-  margin-bottom: 1rem;
-}
-
-.quarto-container {
-  max-width: none; /*  this is the key change */
-  margin: 0 auto;
-  padding: 3rem 2rem;
-}
-
-.sidebar {
-  width: 60px;
-}
-
-
-.video-embed {
-  width: 75%;
-  margin: 2rem auto;   /* centre horizontally */
-}
-
-.video-embed iframe {
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  border: 0;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-section#parameters {
-  /* scroll when child contents overflow the width */
-  overflow-x: auto;
-}
-
-section[id^="parameters-"] {
-  /* scroll when child contents overflow the width */
-  overflow-x: auto;
-}
-
-.bi-zulip::before {
-  display: inline-block;
-  content: url("./zulip.svg");
-  vertical-align: -0.125em;
-  width: 1em;
-  filter: grayscale(1);
-}
-
-.jupyterlite-console {
-  width: 100%;
-  height: 95%;
-  margin: auto;
-  display: block;
-}
-
-.index-grid {
-  @extend .grid;
-  display: flex;
-  justify-content: space-between;
-}
-
-.index-g-col-4 {
-  @extend .g-col-4;
-  flex: 1;
-  /* Ensures all columns grow to fill the same space */
-  margin: 0 5px;
-  /* Adds a small margin between columns */
-}
-
-/* dropdown menu styles */
-.dropdown-menu {
-  max-height: 400px;
-  overflow: auto;
-}
-
-.quarto-navbar-tools .dropdown-menu.show {
-  right: 0px;
-  left: auto;
-}
-
-@media (max-width: 988px) {
-  .quarto-navbar-tools .dropdown-menu.show {
-    right: -80px;
+@media (max-width: 768px) {
+  .columns {
+    flex-direction: column !important;
+  }
+  .column {
+    width: 100% !important;
+  }
+  .profile-pic {
+    max-width: 180px;
+    margin: 0 auto 1rem auto;
   }
 }
-
