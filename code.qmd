@@ -22,9 +22,7 @@ The package is widely used in chemometrics and spectroscopy research ([with more
 Documentation and vignettes:
 [https://cran.r-project.org/web/packages/prospectr/vignettes/prospectr.html](https://cran.r-project.org/web/packages/prospectr/vignettes/prospectr.html)
 
-Github repository:  
-
-[https://github.com/l-ramirez-lopez/prospectr](https://github.com/l-ramirez-lopez/prospectr)
+Github repository: [https://github.com/l-ramirez-lopez/prospectr](https://github.com/l-ramirez-lopez/prospectr)
 
 
 # __`resemble`__
@@ -38,12 +36,9 @@ Github repository:
 
 `resemble` is an R package for local modelling, similarity-based learning, and domain adaptation in spectral chemometrics. It includes `mbl()` for memory-based learning with on-the-fly local models, `liblex()` for retrieval-based prediction using libraries of local experts, and `gesearch()` for evolutionary subset selection of reference samples relevant to a target domain. The ideas behind these methods had been developing in my work for years: `liblex` traces back to around 2019, and my work on evolutionary search began around 2020, partly inspired by Lobsey’s earlier work. Early internal versions of these methods were extensively explored in industrial applications before becoming part of the package.
 
-CRAN documentation and vignettes:
-[https://cran.r-project.org/web/packages/resemble/index.html](https://cran.r-project.org/web/packages/resemble/index.html)  
+CRAN documentation and vignettes: [https://cran.r-project.org/web/packages/resemble/index.html](https://cran.r-project.org/web/packages/resemble/index.html)  
 
-Package websiste:  
-[https://l-ramirez-lopez.github.io/resemble/](https://l-ramirez-lopez.github.io/resemble/)  
+Package websiste: [https://l-ramirez-lopez.github.io/resemble/](https://l-ramirez-lopez.github.io/resemble/)  
 
-Github repository:  
-[https://github.com/l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)
+Github repository: [https://github.com/l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)
 
