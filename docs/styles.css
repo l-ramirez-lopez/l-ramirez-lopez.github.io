@@ -1,3 +1,41 @@
+.name-heading {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  margin-bottom: 0.25rem;
+  color: var(--bs-body-color);
+}
+
+.name-heading strong {
+  font-weight: 700;
+  color: var(--bs-body-color);
+}
+
+.name-subtitle {
+  font-size: 1.28rem;
+  color: var(--bs-body-color);
+  margin-bottom: 1.5rem;
+}
+
+.profile-pic-float {
+  float: right;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin: 0 0 1.5rem 2rem;
+}
+
+@media (max-width: 768px) {
+  .profile-pic-float {
+    float: none;
+    display: block;
+    margin: 0 auto 1.5rem auto;
+  }
+}
+
+
+
 .profile-pic {
   width: 100%;
   max-width: 240px;
