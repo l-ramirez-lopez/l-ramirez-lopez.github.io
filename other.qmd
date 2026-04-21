@@ -8,19 +8,24 @@ me disconnect and stay creative.
 I play guitar, seek out new music across genres and cultures, and 
 appreciate a good beer. A few things I have been listening to lately:
 
+---
+title: "Beyond work"
+---
 
-{{< video https://www.youtube.com/watch?v=IlNZlGWegcc >}}
-{{< video https://www.youtube.com/watch?v=1Sw2JJ5nSbM >}}
-{{< video https://www.youtube.com/watch?v=LvNCGtZlQso >}}
-{{< video https://www.youtube.com/watch?v=DLZOOPMxFNg >}}
-{{< video https://youtu.be/tT9Eh8wNMkw?si=dVWQvZ7bwlmMDStY >}}
+Outside of coding, research, and leadership, I value time that helps 
+me disconnect and stay creative.
 
-{{< video https://www.youtube.com/watch?v=rO1VDCZh_Ko >}}
-{{< video https://www.youtube.com/watch?v=zAIMBWgL77M >}}
-{{< video https://www.youtube.com/watch?v=E58_5-FC3k4 >}}
-{{< video https://www.youtube.com/watch?v=1HzxlcrLHQ0 >}}
+I play guitar, seek out new music across genres and cultures, and 
+appreciate a good beer. Here is some of what I listen to:
 
-{{< video https://www.youtube.com/watch?v=mcCK99wHrk0 >}}
-{{< video https://www.youtube.com/watch?v=txPEUPihhwo >}}
-
-
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" 
+  src="https://open.spotify.com/embed/playlist/0frIIM89W6JiWNpYdQju0d?utm_source=generator" 
+  width="100%" 
+  height="2500" 
+  frameBorder="0" 
+  allowfullscreen="" 
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+  loading="lazy">
+</iframe>
+```
