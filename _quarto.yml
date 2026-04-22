@@ -1,10 +1,14 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - googleeb4248ac3bfa58c9.html
 
 website:
   site-url: https://l-ramirez-lopez.github.io
   title: "Leonardo Ramirez-Lopez"
+  favicon: assets/favicon_io/favicon.ico
+  description: "Personal website of Leonardo Ramirez-Lopez — data scientist, chemometrician, and applied machine learning researcher at BUCHI Labortechnik AG, Switzerland."
   navbar:
     tools:
       - icon: github
@@ -37,4 +41,6 @@ format:
     include-in-header:
       - ga.html
       - schema-person.html
+      - favicon.html
+      - googleeb4248ac3bfa58c9.html
       
