@@ -32,7 +32,8 @@ website:
         href: other.html
       - text: prospectr
         href: prospectr
-
+      - text: resemble
+        href: resemble
 
 format:
   html:
