@@ -44,5 +44,8 @@ I currently lead the Data Science department at [BUCHI Labortechnik AG](https://
 
 My background spans applied machine learning, chemometrics, spectroscopy, and environmental modelling, with experience in both academic and industrial settings. I completed my doctoral studies at University of Tübingen (Germany), carried out postdoctoral research at ETH (Switzerland), and more recently [undertook further study at Imperial College London](https://www.imperial.ac.uk/business-school/blogs/student-blog/why-imperial-business-school-the-right-place-scientists-learn-business/)  (UK), completing a Master’s in Business Analytics. I have also lived and worked in several countries, including Colombia, Brazil, Germany, Belgium, and Switzerland.
 
+I recently published two research papers in _Analytica Chimica Acta_ for spectral library modelling in spectroscopy: the first is about the development of [libraries of models](https://www.sciencedirect.com/science/article/pii/S000326702600632X) and the second one is about [evolutionary subset selection for domain-adaptive calibration](https://www.sciencedirect.com/science/article/pii/S000326702600601X).
+
+
 Have a look at this post, where I discuss [why business education is important for scientists](https://www.imperial.ac.uk/business-school/blogs/student-blog/why-imperial-business-school-the-right-place-scientists-learn-business/). 
 
