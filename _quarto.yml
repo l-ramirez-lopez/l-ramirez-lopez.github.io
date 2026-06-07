@@ -28,12 +28,12 @@ website:
         href: code.html
       - text: Talks
         href: talks.html
-      - text: Beyond work
-        href: other.html
       - text: prospectr
         href: prospectr
       - text: resemble
         href: resemble
+      - text: Beyond work
+        href: other.html
 
 format:
   html:
