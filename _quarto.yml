@@ -30,8 +30,6 @@ website:
         href: talks.html
       - text: Beyond work
         href: other.html
-      - text: temp
-        href: temp.html
 
 
 format:
