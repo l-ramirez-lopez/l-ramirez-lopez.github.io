@@ -30,6 +30,8 @@ website:
         href: talks.html
       - text: Beyond work
         href: other.html
+      - text: prospectr
+        href: prospectr
 
 
 format:
