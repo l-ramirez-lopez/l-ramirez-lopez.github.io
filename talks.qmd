@@ -6,6 +6,13 @@ An important part of my work involves sharing knowledge and supporting capacity 
 
 Below are selected talks and training activities.
 
+### __Why refit when you can retrieve? Advancing local chemometrics with model libraries__
+**Presentation at Chemometrics in Analytical Chemistry 2026**  
+*2026-07-03* 
+
+<iframe src="https://l-ramirez-lopez.github.io/cac-2026-presentation"
+        width="100%" height="450" style="border:1px solid #ccc"></iframe>
+
 ### __From decision to impact: successfully starting with NIR__ *(in Spanish)*  
 **Invited talk**  
 *World Food Organization (FAO)*  

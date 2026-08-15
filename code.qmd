@@ -1,5 +1,5 @@
 ---
-title: "Two of my open-source projects"
+title: "Three of my open-source projects"
 ---
 
 
@@ -7,7 +7,7 @@ I also contribute actively to open-source software, both within and outside my p
 
 # __`prospectr`__
 
-**Lead developer (since 2013)**
+**Author and maintainer (since 2013)**
 
 [![CRAN](https://img.shields.io/cran/v/prospectr)](https://cran.r-project.org/package=prospectr)
 [![license](https://img.shields.io/cran/l/prospectr)](https://cran.r-project.org/package=prospectr)
@@ -27,7 +27,7 @@ Github repository: [https://github.com/l-ramirez-lopez/prospectr](https://github
 
 # __`resemble`__
 
-**Lead developer (since 2014)**
+**Author and maintainer (since 2014)**
 
 [![CRAN](https://img.shields.io/cran/v/resemble)](https://cran.r-project.org/package=resemble)
 [![license](https://img.shields.io/cran/l/resemble)](https://cran.r-project.org/package=resemble)
@@ -41,4 +41,28 @@ CRAN documentation and vignettes: [https://cran.r-project.org/web/packages/resem
 Package websiste: [https://l-ramirez-lopez.github.io/resemble/](https://l-ramirez-lopez.github.io/resemble/)  
 
 Github repository: [https://github.com/l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)
+
+
+# __`proximetricsR`__
+
+**Author and maintainer (since 2020)**
+
+[![CRAN](https://img.shields.io/cran/v/proximetricsR)](https://cran.r-project.org/package=proximetricsR)
+[![license](https://img.shields.io/cran/l/proximetricsR)](https://cran.r-project.org/package=proximetricsR)
+
+<img align="right" src="assets/proximetricsr-logo.png" width="20%">
+
+`proximetricsR` is an R package for building, validating and deploying
+near-infrared calibration models in instruments. It covers
+the full workflow: reading spectral and reference data, preprocessing,
+PLS calibration with cross-validation, validation diagnostics including
+Mahalanobis (GH) distance and spectral residuals, model reporting, and
+serialisation of models to the instrument's native format.
+
+Development began in 2020. The package was used internally at my work
+for several years and was made publicly available in 2026.
+
+CRAN documentation and vignettes: [https://cran.r-project.org/package=proximetricsR](https://cran.r-project.org/package=proximetricsR)  
+Package website: [https://proximetricsr.r.packages.buchi-nir.io/](https://proximetricsr.r.packages.buchi-nir.io/)  
+GitHub repository: [https://github.com/buchi-labortechnik-ag/proximetricsr/](https://github.com/buchi-labortechnik-ag/proximetricsr/) 
 
