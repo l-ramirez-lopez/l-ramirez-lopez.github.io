@@ -3,7 +3,7 @@ title: "Three of my open-source projects"
 ---
 
 
-I also contribute actively to open-source software, both within and outside my professional roles. Over the years, I have maintained several projects; below are two long-term packages that I have led and continuously developed for more than a decade.
+I also contribute actively to open-source software, both within and outside my professional roles. Over the years, I have maintained several projects; below are two long-term packages that I have led and continuously developed for more than a decade. In addition, there is a new package developed to build calibration models ready to be deployed in NIR sensors.
 
 # __`prospectr`__
 
