@@ -38,7 +38,7 @@ Github repository: [https://github.com/l-ramirez-lopez/prospectr](https://github
 
 CRAN documentation and vignettes: [https://cran.r-project.org/web/packages/resemble/index.html](https://cran.r-project.org/web/packages/resemble/index.html)  
 
-Package websiste: [https://l-ramirez-lopez.github.io/resemble/](https://l-ramirez-lopez.github.io/resemble/)  
+Package website: [https://l-ramirez-lopez.github.io/resemble/](https://l-ramirez-lopez.github.io/resemble/)  
 
 Github repository: [https://github.com/l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)
 
